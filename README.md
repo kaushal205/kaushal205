@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal205&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal205" /> </p>
 
-- 🔭 I’m currently working on **Visual Lansa (North American Lending)**
-
-- 🌱 I’m currently learning **Blockchain Technology and Full Stack Web Development**
-
 - 📫 How to reach me **kaushalashwini0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
